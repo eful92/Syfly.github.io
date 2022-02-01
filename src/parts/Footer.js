@@ -33,13 +33,13 @@ export default function Footer() {
             <h1 className="text-lg text-theme-blue pt-4 pb-2">
               Social
             </h1>
-            <Button href="https://www.instagram.com/racmathafidz/" type="link" target="_blank" className="flex text-lg text-gray-400 font-light hover:underline" isExternal>
+            <Button href="https://www.instagram.com/syfulyusf/" type="link" target="_blank" className="flex text-lg text-gray-400 font-light hover:underline" isExternal>
               Instagram
             </Button>
-            <Button href="https://www.linkedin.com/in/racmat-hafidz-89982a156/" type="link" target="_blank" className="flex text-lg text-gray-400 font-light hover:underline" isExternal>
+            <Button href="" type="link" target="_blank" className="flex text-lg text-gray-400 font-light hover:underline" isExternal>
               LinkedIn
             </Button>
-            <Button href="https://github.com/racmathafidz" type="link" target="_blank" className="flex text-lg text-gray-400 font-light hover:underline" isExternal>
+            <Button href="https://github.com/eful92" type="link" target="_blank" className="flex text-lg text-gray-400 font-light hover:underline" isExternal>
               Github
             </Button>
           </div>
@@ -52,8 +52,8 @@ export default function Footer() {
             <p className="inline-block text-lg text-gray-400 font-light">
               Made with &#x2764; by&nbsp;
             </p>
-            <Button href="https://github.com/racmathafidz" type="link" target="_blank" className="text-lg text-theme-purple font-light" isExternal>
-              Racmat Hafidz Fadli
+            <Button href="https://github.com/eful92" type="link" target="_blank" className="text-lg text-theme-purple font-light" isExternal>
+              
             </Button>
           </div>
         </div>
